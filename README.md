@@ -29,7 +29,7 @@ sudo apt install nam
 # How to simulate DoS Attack using NS2?
 To perform a DOS attack simulation using NS2, you will need to:
 
-•	Create a network topology in NS2.
+•	Create a network topology in NS2.(creating udp packets)
 •	Configure the network nodes to simulate the victim and attacker machines.
 •	Write a TCL script to launch the DoS attack.
 •	 Run the simulation using the appropriate NS2 command---ns dos.tcl
